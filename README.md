@@ -2,7 +2,7 @@
 
 
 
-- 💻 I’m currently working with microservices and SPA in [AMAI](https://epam.com)
+- 💻 I’m currently working with microservices and SPA in [AMAI](https://amai.io)
 - 🌱 I’m currently learning HA clusters and AI/ML apps
 
 
