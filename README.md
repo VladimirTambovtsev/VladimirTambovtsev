@@ -18,6 +18,7 @@
   - [linkedin](https://www.linkedin.com/in/vladimir-tambovtsev/)
   - [github](https://github.com/VladimirTambovtsev)
   - [gitlab](https://gitlab.com/tambovcev99)
+  - [npm](  https://www.npmjs.com/~vladimir44)
   - [codepen](https://codepen.io/Vladimir44)
   - [dockerhub](https://hub.docker.com/u/vladimir44)
   - [expo](https://expo.io/@vladimirtambovtsev)
