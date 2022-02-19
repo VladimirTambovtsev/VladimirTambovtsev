@@ -7,8 +7,7 @@
 
 ## GitHub activity stats
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VladimirTambovtsev.visitor-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://nostalgic-organic-mushroom.glitch.me/badge?page_id=VladimirTambovtsev.visitor-badge&left_text=My%20Page%20Visitors)
 
 
 <div class="container">
