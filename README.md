@@ -30,11 +30,6 @@
   <summary>Links:</summary>
   
   <br>
-  
-  ###### [tambovtsev.pro](http://tambovtsev.pro/)
-  ###### tambovcev99@gmail.com
-  
-  <br>
 
   - [vk](https://vk.com/vladimir_tambovtsev)
   - [linkedin](https://www.linkedin.com/in/vladimir-tambovtsev/)
