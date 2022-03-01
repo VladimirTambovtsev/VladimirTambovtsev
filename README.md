@@ -31,7 +31,6 @@
   
   <br>
 
-  - [vk](https://vk.com/vladimir_tambovtsev)
   - [linkedin](https://www.linkedin.com/in/vladimir-tambovtsev/)
   - [github](https://github.com/VladimirTambovtsev)
   - [gitlab](https://gitlab.com/tambovcev99)
