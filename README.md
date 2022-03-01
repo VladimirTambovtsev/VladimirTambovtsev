@@ -31,12 +31,12 @@
   
   <br>
 
-  - [linkedin](https://www.linkedin.com/in/vladimir-tambovtsev/)
-  - [gitlab](https://gitlab.com/tambovcev99)
-  - [npm](  https://www.npmjs.com/~vladimir44)
-  - [codepen](https://codepen.io/Vladimir44)
-  - [dockerhub](https://hub.docker.com/u/vladimir44)
-  - [expo](https://expo.io/@vladimirtambovtsev)
+  - [LinkedIn](https://www.linkedin.com/in/vladimir-tambovtsev/)
+  - [GitLab](https://gitlab.com/tambovcev99)
+  - [NPM](  https://www.npmjs.com/~vladimir44)
+  - [Codepen](https://codepen.io/Vladimir44)
+  - [DockerHub](https://hub.docker.com/u/vladimir44)
+  - [Expo](https://expo.io/@vladimirtambovtsev)
 
 
 <!-- ![Github](https://github-readme-stats.vercel.app/api?username=VladimirTambovtsev&show_icons=true) -->
