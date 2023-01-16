@@ -9,7 +9,7 @@
 
 ![visitor badge](https://nostalgic-organic-mushroom.glitch.me/badge?page_id=VladimirTambovtsev.visitor-badge&left_text=My%20Page%20Visitors)
 
-
+<!-- 
 <div class="container">
   <div class="row">
     <div class="col" style="align-items: flex-start;">
@@ -17,7 +17,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=VladimirTambovtsev&show_icons=true&hide_border=true" alt="GitHub stats">
     </div>
   </div>
-</div>
+</div> -->
 
 
 ## Contact me via
