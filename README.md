@@ -22,7 +22,7 @@
 
 ## Contact me via
 
-  ###### [tambovtsev.pro](http://tambovtsev.pro/)
+  ###### [tambovtsev.dev](http://tambovtsev.dev)
   ###### tambovcev99@gmail.com
 
 
