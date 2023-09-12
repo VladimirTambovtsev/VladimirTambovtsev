@@ -2,7 +2,7 @@
 
 
 
-- 💻 I’m currently working with microfrontends and KMM
+- 💻 I’m currently working with Web / Mobile apps
 <!-- - 🌱 I’m currently learning HA clusters and AI/ML apps -->
 
 ## GitHub activity stats
