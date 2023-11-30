@@ -1,13 +1,15 @@
 ## Full Stack Developer
 
+Full Stack developer with 6 years of experience. Interested in crypto projects and AI.
 
 
-- 💻 I’m currently working with Web / Mobile apps
 <!-- - 🌱 I’m currently learning HA clusters and AI/ML apps -->
 
+<!--
 ## GitHub activity stats
 
 ![visitor badge](https://nostalgic-organic-mushroom.glitch.me/badge?page_id=VladimirTambovtsev.visitor-badge&left_text=Profile%20Views)
+-->
 
 <!-- 
 <div class="container">
@@ -20,7 +22,7 @@
 </div> -->
 
 
-## Contact me via
+## Contact me
 
   ###### [tambovtsev.dev](http://tambovtsev.dev)
   ###### tambovcev99@gmail.com
