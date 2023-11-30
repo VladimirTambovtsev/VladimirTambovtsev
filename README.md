@@ -1,6 +1,6 @@
 ## Full Stack Developer
 
-Full Stack developer with 6 years of experience. Interested in crypto projects and AI.
+6+ years of experience. Interested in crypto projects and AI.
 
 
 <!-- - 🌱 I’m currently learning HA clusters and AI/ML apps -->
