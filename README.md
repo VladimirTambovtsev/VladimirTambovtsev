@@ -1,7 +1,37 @@
-## Full Stack Developer
+# Vladimir Tambovtsev
+
+**Senior Full-Stack Engineer — React · TypeScript · Node.js**
+8 years building Web3 and AI products.
+
+---
+
+### 🔐 Pontem Wallet — crypto wallet, 130K+ installs
+Built a multi-chain crypto wallet browser extension for the **Aptos** blockchain.
+**100K+ Chrome installs · 30K+ Firefox installs.** Move smart contracts, EVM integration, NFT support.
+→ [Chrome Web Store](ВСТАВЬТЕ_ССЫЛКУ)
+
+### 🚀 AppStruct — AI no-code app builder (founder)
+Founded and built [**appstruct.ai**](https://appstruct.ai): a natural-language prompt becomes a
+deployable app on **iOS, Android, Web, Desktop and Telegram** — one click, published straight to
+the App Store and Google Play. Took it from zero to paying customers. 4.8★ on Product Hunt.
+
+### 🏗️ Micro-frontends at scale
+Led the migration of a monolithic retail-banking frontend to micro-frontends
+(React + Webpack Module Federation). Currently **Head of Web Development** in a
+frontend organisation of 80+ engineers.
+
+---
+
+**Stack:** React · TypeScript · Node.js / Nest.js · React Native · Electron · GraphQL · PostgreSQL · Redis · Kubernetes · Move / EVM
+
+📍 Relocating to Buenos Aires — open to fully remote roles worldwide.
+
+🌐 [tambovtsev.dev](https://tambovtsev.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/vladimir-tambovtsev/) · ✉️ tambovcev99@gmail.com
+
+<!-- ## Full Stack Developer
 
 8 years of experience. Interested in crypto and AI.
-
+-->
 
 <!-- - 🌱 I’m currently learning HA clusters and AI/ML apps -->
 
@@ -21,6 +51,7 @@
   </div>
 </div> -->
 
+<!--
 
 ## Contact me
 
@@ -40,7 +71,9 @@
   - [DockerHub](https://hub.docker.com/u/vladimir44)
   - [Expo](https://expo.io/@vladimirtambovtsev)
 
-
+-->
 <!-- ![Github](https://github-readme-stats.vercel.app/api?username=VladimirTambovtsev&show_icons=true) -->
 
+<!--
 </details>
+-->
