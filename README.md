@@ -8,7 +8,7 @@
 ### 🔐 Pontem Wallet — crypto wallet, 130K+ installs
 Built a multi-chain crypto wallet browser extension for the **Aptos** blockchain.
 **100K+ Chrome installs · 30K+ Firefox installs.** Move smart contracts, EVM integration, NFT support.
-→ [Chrome Web Store](ВСТАВЬТЕ_ССЫЛКУ)
+→ [Chrome Web Store](https://chromewebstore.google.com/detail/pontem-crypto-wallet-eth/phkbamefinggmakgklpkljjmgibohnba)
 
 ### 🚀 AppStruct — AI no-code app builder (founder)
 Founded and built [**appstruct.ai**](https://appstruct.ai): a natural-language prompt becomes a
